@@ -3,7 +3,7 @@ body {
     font-family: 'Georgia', serif;
     background-color: #f6b46f;
   }
-  
+     
   .botoes {
     display: flex;
     gap: 100px;
